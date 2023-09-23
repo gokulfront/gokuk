@@ -1,0 +1,20 @@
+h1
+{ color:gold;
+
+}
+#guna
+{
+    color:blue;
+}
+.divya
+{
+    color:pink;
+}
+li[class=jabes]
+{
+ color:black;
+}
+* 
+{
+    color:violet
+}
